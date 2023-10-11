@@ -1,0 +1,19 @@
+[33mafa03e0bd65224d1290695b850b122442633d752[m[33m ([m[1;36mHEAD -> [m[1;32mpremium[m[33m, [m[1;31morigin/premium[m[33m)[m Revert "Add the info of calculator.py in README.md"
+[33ma30697918c7e178711673404564813cde3619c08[m Revert "Make README.md look nice"
+[33m8d2938d9b2c141e387d732a42a3fd753aef9c879[m Remove say_hello function in calculator.py
+[33me28304da7375eeb2f15493cec2f838e91049715e[m Add say_hello function
+[33mb5ca022e0bc06eab1193247fa2ec092270a2d7f9[m Merge branch 'premium' of https://github.com/Jeong-Yuri/Math_Box into premium
+[33mf371f0228aba0f4f9fc013dd06ba218b3a9e3301[m Update License for educational use
+[33mf7617fa3b47dde80d481f6c9b4b02aa673285689[m Update License for enterprise use
+[33m7799a0c4e5e63df462bfcd391dab714c09ecb19a[m Merge branch 'master' into premium
+[33m3daee031174f323f23259cd7d583c36b771395af[m Change divide function as free
+[33m190de4844b5c521d8c8ff5c34dd4e42c8c92c36d[m Change divide function as premium
+[33m0ad4c7b69fe40a6529a13121e132332e23ee2fa4[m Merge branch 'master' into premium
+[33m9a27557ed209651f17395454bbcb27210c5dbd6e[m Add function
+[33m3f23d6f0de7207b347bf9ab64b0ab346f70d85b2[m Change License from free to premium
+[33m97b319399291dc0ec24af1e16b55d0afe7b9aaf3[m Make README.md look nice
+[33m9fd4e6c57dfb4980aacbf4e2ba766c2a5a7259cb[m Add the info of calculator.py in README.md
+[33m565b921a7a256ad09178f94f3fc4aececbd89864[m Create README.md
+[33mf5c54fa686863713632156dcec653118b67206f7[m Create README.md
+[33m48c44ed53f71637bb2477983c503a94f5a163bb3[m Add title comment and Create meeting-log
+[33m56c43f2ac064ad6fefc9a2d188a17f500a16187f[m Create calculator.py and License
